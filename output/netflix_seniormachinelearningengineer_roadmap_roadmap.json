@@ -1,0 +1,45 @@
+{
+  "company": "Netflix",
+  "role": "Senior Machine Learning Engineer (Recommender Systems)",
+  "difficulty": "Very Hard",
+  "interview_rounds": [
+    {
+      "round_name": "Technical Phone Screen",
+      "topics": [
+        "Machine Learning",
+        "Statistics & Experimentation",
+        "Python"
+      ]
+    },
+    {
+      "round_name": "ML System Design",
+      "topics": [
+        "Recommender Systems",
+        "Distributed Systems",
+        "A/B testing"
+      ]
+    },
+    {
+      "round_name": "ML Concepts & Recommender Systems",
+      "topics": [
+        "Machine Learning",
+        "Recommender Systems",
+        "Statistics & Experimentation"
+      ]
+    },
+    {
+      "round_name": "Behavioral & Project Deep Dive",
+      "topics": [
+        "Collaboration",
+        "Project Impact",
+        "Innovation"
+      ]
+    }
+  ],
+  "recommended_preparation_order": [
+    "1. Machine Learning & Statistics Foundations",
+    "2. Recommender Systems Deep Dive",
+    "3. ML System Design & Scalability",
+    "4. Behavioral & Project Storytelling"
+  ]
+}

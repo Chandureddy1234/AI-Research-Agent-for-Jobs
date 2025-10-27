@@ -1,0 +1,42 @@
+{
+  "company": "Amazon",
+  "role": "SDE II (Software Development Engineer II)",
+  "difficulty": "Hard",
+  "interview_rounds": [
+    {
+      "round_name": "Online Assessment / Phone Screen",
+      "topics": [
+        "Data Structures & Algorithms"
+      ]
+    },
+    {
+      "round_name": "Technical On-site (Coding)",
+      "topics": [
+        "Data Structures & Algorithms",
+        "Object-Oriented Design"
+      ]
+    },
+    {
+      "round_name": "Technical On-site (System Design)",
+      "topics": [
+        "System Design",
+        "Cloud Computing",
+        "Backend Development"
+      ]
+    },
+    {
+      "round_name": "Behavioral On-site (Leadership Principles)",
+      "topics": [
+        "Mentorship",
+        "Ownership",
+        "Teamwork & Communication"
+      ]
+    }
+  ],
+  "recommended_preparation_order": [
+    "1. Data Structures & Algorithms",
+    "2. Object-Oriented Design",
+    "3. System Design (Distributed Systems, Cloud Computing)",
+    "4. Behavioral (Amazon Leadership Principles)"
+  ]
+}

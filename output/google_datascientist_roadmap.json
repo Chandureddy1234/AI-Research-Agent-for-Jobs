@@ -1,0 +1,46 @@
+{
+  "company": "Google",
+  "role": "Data Scientist",
+  "difficulty": "Very Hard",
+  "interview_rounds": [
+    {
+      "round_name": "Technical Phone Screen",
+      "topics": [
+        "Data Analysis",
+        "Statistics"
+      ]
+    },
+    {
+      "round_name": "On-site: Statistics & Experimental Design",
+      "topics": [
+        "Statistics",
+        "Experimental Design"
+      ]
+    },
+    {
+      "round_name": "On-site: Machine Learning",
+      "topics": [
+        "Machine Learning"
+      ]
+    },
+    {
+      "round_name": "On-site: Data Challenge & Coding",
+      "topics": [
+        "Data Science",
+        "Big Data"
+      ]
+    },
+    {
+      "round_name": "On-site: Behavioral & Leadership",
+      "topics": []
+    }
+  ],
+  "recommended_preparation_order": [
+    "1. Foundational Statistics",
+    "2. Data Analysis (SQL & Python)",
+    "3. Machine Learning Theory & Application",
+    "4. Experimental Design & A/B Testing",
+    "5. Big Data Systems (Spark/Hadoop)",
+    "6. Product Sense & Case Studies"
+  ]
+}
